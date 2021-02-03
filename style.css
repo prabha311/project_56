@@ -1,0 +1,23 @@
+body{
+    background-color:thistle;
+    text-align: center;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color:darkmagenta;
+    text-overflow: inherit;
+    color:aqua;
+    
+}
+div{
+    margin-top: 15px;
+}
+img{
+    width: 600px;
+}
